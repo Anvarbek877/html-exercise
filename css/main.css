@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none !important;
+    list-style: none !important;
+    box-sizing: border-box;
+}
+
+.wrap-line{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    display: inline-block;
+    width: 50px;
+    height: 3px;
+    background-color: lime;
+}
+
+.wrapper-btn{
+    position: absolute;
+    width: 30px !important;
+    height: 30px;
+    background-color: lime;
+    top: 350px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    border: none;
+}
